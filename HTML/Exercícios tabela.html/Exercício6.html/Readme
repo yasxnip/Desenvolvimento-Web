@@ -1,0 +1,4 @@
+Exercício 6 — rowspan
+Crie uma tabela com as colunas Laboratório e Disciplina. O Laboratório 1 deverá estar associado a HTML
+e Java; o Laboratório 2, a Redes e Segurança. Utilize rowspan para não repetir o nome de cada
+laboratório.

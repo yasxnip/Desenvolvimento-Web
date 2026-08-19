@@ -1,0 +1,3 @@
+Exercício 1 — Tabela de produtos
+Crie uma página HTML contendo uma tabela com as colunas Código, Produto, Quantidade e Preço.
+Cadastre pelo menos cinco produtos. Utilize <table>, <caption>, <thead>, <tbody>, <tr>, <th> e <td>.
